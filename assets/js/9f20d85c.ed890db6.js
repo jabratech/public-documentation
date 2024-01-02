@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjabra_docs=self.webpackChunkjabra_docs||[]).push([[945],{8369:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/public-documentation/blog/tags/docusaurus","allTagsPath":"/public-documentation/blog/tags","count":4,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjabra_docs=self.webpackChunkjabra_docs||[]).push([[315],{3295:a=>{a.exports=JSON.parse('{"permalink":"/public-documentation/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

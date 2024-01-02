@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjabra_docs=self.webpackChunkjabra_docs||[]).push([[698],{8653:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/public-documentation/blog/tags/hello","allTagsPath":"/public-documentation/blog/tags","count":2,"unlisted":false}')}}]);
