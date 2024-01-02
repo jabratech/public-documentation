@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'jabratech', // Usually your GitHub org/user name.
+  organizationName: 'jabratech-docs', // Usually your GitHub org/user name.
   projectName: 'public-documentation', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
