@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Jabra Docs',
   tagline: 'Public Documentation',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/coding.png',
 
   // Set the production url of your site here
   url: 'https://jabratech.github.io',
