@@ -4,6 +4,46 @@
  * work well for content-centric websites.
  */
 
+/* Import custom fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Specific element font styling */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  padding-left: 35px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 2.0;
+}
+
+p {
+    padding-left: 35px;
+}
+
+/* Table */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  padding-left: 180px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+}
+
+/* Block Quotes */
+blockquote {
+  border-left: 4px solid var(--ifm-color-primary);
+  margin: 50px 0;
+}
+
+/* Admonitions */
+
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e8555;

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Expiration
+# ⏱ Expiration
 
 Docs about Expiration
 
