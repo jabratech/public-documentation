@@ -1,19 +1,22 @@
-name: Build and Deploy Docusaurus Site
+name: Deploy
 
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - master  # Set the branch to deploy
 
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
       - name: Setup Node.js
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v2
         with:
-          node-version: '14.x'  # Update to a more recent version if possible
+          node-version: '12.x' 
 
       - name: Install Dependencies
         run: npm install
@@ -27,4 +30,3 @@ jobs:
           USE_SSH: true
           GH_PAGES_DEPLOY: github-actions[bot]@users.noreply.github.com
           GIT_USER: 'jabratech'
-  
