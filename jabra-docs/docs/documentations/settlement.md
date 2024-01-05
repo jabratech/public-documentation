@@ -23,16 +23,15 @@ sidebar_position: 2
 
 ## Parameters
 
-<p style={{ fontSize: '17px', textAlign: 'justify' }}>
-As mentioned, cash settlement calculation required necessary values like the option kind, side of trade, settlement price, strike price, contract size and the settlement currency. Here is the breakdown of those parameters:
+<p style={{ fontSize: '17px', textAlign: 'justify' }}> As mentioned, cash settlement calculation required necessary values like the option kind, side of trade, settlement price, strike price, contract size and the settlement currency. Here is the breakdown of those parameters: </p>
 
-1.	**Option Kind**: Type of the option, either 'Call' or 'Put'.
-2.	**Side**: The side of the trade, either 'Buy' or 'Sell'.
-3.	**Settlement Price**: Price of the underlying asset at settlement time.
-4.	**Strike Price**: Price at which the option can be exercised.
-5.	**Contract Size**: Size of the contract.
-6.	**Settlement Currency**: Currency in which the settlement is made.
-</p>
+<p style={{ fontSize: '17px', textAlign: 'justify', paddingLeft: '60px' }}><strong>1. Option Kind:</strong> Type of the option, either 'Call' or 'Put'.</p>
+<p style={{ fontSize: '17px', textAlign: 'justify', paddingLeft: '60px' }}><strong>2. Side:</strong> The side of the trade, either 'Buy' or 'Sell'.</p>
+<p style={{ fontSize: '17px', textAlign: 'justify', paddingLeft: '60px' }}><strong>3. Settlement Price:</strong> Price of the underlying asset at settlement time.</p>
+<p style={{ fontSize: '17px', textAlign: 'justify', paddingLeft: '60px' }}><strong>4. Strike Price:</strong> Price at which the option can be exercised.</p>
+<p style={{ fontSize: '17px', textAlign: 'justify', paddingLeft: '60px' }}><strong>5. Contract Size:</strong> Size of the contract.</p>
+<p style={{ fontSize: '17px', textAlign: 'justify', paddingLeft: '60px' }}><strong>6. Settlement Currency:</strong> Currency in which the settlement is made.</p>
+
 
 ## Sample Scenarios
 <p style={{ fontSize: '17px', textAlign: 'justify' }}>
