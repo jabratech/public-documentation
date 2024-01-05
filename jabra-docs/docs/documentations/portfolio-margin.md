@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🧾 Portfolio Margin
+# Portfolio Margin
 
 Docs about Portfolio Margin
 

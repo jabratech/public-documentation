@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# 📣 RFQs
+# RFQs
 
 Docs about RFQs
 

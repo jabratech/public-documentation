@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 📈 PnL Calculation
+# PnL Calculation
 
 Docs about PnL Calculation
 
